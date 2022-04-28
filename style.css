@@ -16,7 +16,7 @@ body {
   border: 1px solid black;
 }
 
-h1 {
+.container> :first-child {
   border: 1px solid black;
   text-align: center;
 }
